@@ -4,3 +4,4 @@ Install-Module -Name 'Get-ChildItemColor'
 Install-Module -Name 'PSReadline' -AllowPrerelease 
 Install-Module -Name 'Az.Tools.Predictor'
 
+Install-Module -Name 'Az'
