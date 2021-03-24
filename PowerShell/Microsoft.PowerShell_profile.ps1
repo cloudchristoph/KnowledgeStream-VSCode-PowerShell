@@ -5,7 +5,7 @@ Import-Module oh-my-posh
 Import-Module 'Get-ChildItemColor'
 Import-Module Az.Tools.Predictor
 
-Set-Theme Agnoster
+Set-PoshPrompt Agnoster
 
 Set-PSReadLineOption -PredictionSource HistoryAndPlugin
 Set-PSReadLineOption -PredictionViewStyle ListView

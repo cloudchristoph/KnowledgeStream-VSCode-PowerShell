@@ -3,7 +3,7 @@
 ## Tooling für Azure
 
 - [Visual Studio Code](https://code.visualstudio.com/)
-- [PowerShell 7](https://github.com/PowerShell/PowerShell/releases/tag/v7.1.2)
+- [PowerShell 7](https://github.com/PowerShell/PowerShell/releases/latest)
 - [Windows Terminal](https://aka.ms/terminal)
   - [Windows Terminal als Release Datei](https://github.com/microsoft/terminal/releases/tag/v1.6.10571.0)
 - [Az Module](https://docs.microsoft.com/en-us/powershell/azure/install-az-ps?view=azps-5.5.0#install-for-current-user)
